@@ -17,5 +17,6 @@ Para ello, este trabajo mediante la construcción presenta la siguiente secuenci
 
 
 Proyecto trabajado para presentar en el 10° Congreso Latinoamericano de Ciencia Política, Monterrey - México
+
 Enlace del borrador del documento final en: https://docs.google.com/document/d/1bpHdxIlgwK3UwSe1TvmqMmFDh89R1HHaOiuRG0rjc2I/edit?usp=sharing
 
